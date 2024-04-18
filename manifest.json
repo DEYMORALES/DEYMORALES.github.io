@@ -6,7 +6,7 @@
     "theme_color" : "red",
     "background_color" : "red",
     "description" : "pogi",
-    "icon" :
+    "icons" :
     [
         {
           "src": "images/icon-192.png",
