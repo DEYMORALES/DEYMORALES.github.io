@@ -26,5 +26,10 @@ text-align: center;
     </div>
     <h2>Definition</h2>
     <p>Learning PWA sample website</p>
+    <script>
+        if("serviceworker" in navigator){
+            navigator.serviceWorker.register("serviceworker.js");
+        }
+    </script>
 </body>
 </html>
